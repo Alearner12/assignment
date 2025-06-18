@@ -1,0 +1,707 @@
+{
+  "metadata": {
+    "source": "AMFI NAV Data",
+    "extracted_at": "2025-06-18 14:16:42",
+    "url": "https://www.amfiindia.com/spages/NAVAll.txt"
+  },
+  "schemes": [
+    {
+      "scheme_code": "119551",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW",
+      "asset_value": "107564.40",
+      "nav": "107.5644",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "119552",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - MONTHLY IDCW",
+      "asset_value": "118081.90",
+      "nav": "118.0819",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "119553",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - Direct - Quarterly IDCW",
+      "asset_value": "104735.20",
+      "nav": "104.7352",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "108272",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - IDCW",
+      "asset_value": "151113.90",
+      "nav": "151.1139",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "110282",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - MONTHLY IDCW",
+      "asset_value": "113886.00",
+      "nav": "113.886",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "108274",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - Quarterly IDCW",
+      "asset_value": "102702.90",
+      "nav": "102.7029",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "110490",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - retail - monthly IDCW",
+      "asset_value": "113664.30",
+      "nav": "113.6643",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "106157",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - retail - quarterly IDCW",
+      "asset_value": "103826.10",
+      "nav": "103.8261",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "108273",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund - Regular Plan-Growth",
+      "asset_value": "367901.60",
+      "nav": "367.9016",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "103176",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund - Retail Plan-Growth",
+      "asset_value": "552269.60",
+      "nav": "552.2696",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "119550",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund- Direct Plan-Growth",
+      "asset_value": "381790.80",
+      "nav": "381.7908",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "128952",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Direct Plan - Bonus Option",
+      "asset_value": "1532827.20",
+      "nav": "1532.8272",
+      "date": "14-Jun-2017"
+    },
+    {
+      "scheme_code": "120437",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Direct Plan - Daily IDCW",
+      "asset_value": "1036079.60",
+      "nav": "1036.0796",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "120438",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Direct Plan - Growth Option",
+      "asset_value": "2724786.10",
+      "nav": "2724.7861",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "120439",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Direct Plan - Monthly IDCW",
+      "asset_value": "1034801.60",
+      "nav": "1034.8016",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "120436",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Direct Plan - Weekly IDCW",
+      "asset_value": "1035906.80",
+      "nav": "1035.9068",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "128953",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Regular Plan - Bonus Option",
+      "asset_value": "1289407.50",
+      "nav": "1289.4075",
+      "date": "18-May-2015"
+    },
+    {
+      "scheme_code": "117447",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Regular Plan - Daily IDCW",
+      "asset_value": "1035991.70",
+      "nav": "1035.9917",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "117446",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Regular Plan - Growth option",
+      "asset_value": "2642652.30",
+      "nav": "2642.6523",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "117449",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Regular Plan - Monthly IDCW",
+      "asset_value": "1034618.60",
+      "nav": "1034.6186",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "117448",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Regular Plan - Weekly IDCW",
+      "asset_value": "1035841.00",
+      "nav": "1035.8410",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "152164",
+      "scheme_name": "Bajaj Finserv Banking and PSU Fund-  Direct Plan-Monthly- IDCW",
+      "asset_value": "10988.30",
+      "nav": "10.9883",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "152163",
+      "scheme_name": "Bajaj Finserv Banking and PSU Fund- Direct Plan- IDCW",
+      "asset_value": "11558.10",
+      "nav": "11.5581",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "152165",
+      "scheme_name": "Bajaj Finserv Banking and PSU Fund- Regular Plan- Growth",
+      "asset_value": "11457.10",
+      "nav": "11.4571",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "152166",
+      "scheme_name": "Bajaj Finserv Banking and PSU Fund- Regular Plan- IDCW",
+      "asset_value": "11457.10",
+      "nav": "11.4571",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "152162",
+      "scheme_name": "Bajaj Finserv Banking and PSU Fund-Direct Plan- Growth",
+      "asset_value": "11558.10",
+      "nav": "11.5581",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "152167",
+      "scheme_name": "Bajaj Finserv Banking and PSU Fund-Regular Plan-Monthly-IDCW",
+      "asset_value": "10919.60",
+      "nav": "10.9196",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "121936",
+      "scheme_name": "BANDHAN Banking & PSU Debt Fund - Direct Annual IDCW",
+      "asset_value": "12342.10",
+      "nav": "12.3421",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "127471",
+      "scheme_name": "BANDHAN Banking & PSU Debt Fund - Direct Daily IDCW",
+      "asset_value": "10462.00",
+      "nav": "10.4620",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "121934",
+      "scheme_name": "BANDHAN Banking & PSU Debt Fund - Direct Fortnightly IDCW",
+      "asset_value": "10463.40",
+      "nav": "10.4634",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "121279",
+      "scheme_name": "BANDHAN Banking & PSU Debt Fund - Direct Growth",
+      "asset_value": "25386.30",
+      "nav": "25.3863",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "121281",
+      "scheme_name": "BANDHAN Banking & PSU Debt Fund - Direct IDCW",
+      "asset_value": "13353.90",
+      "nav": "13.3539",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "121935",
+      "scheme_name": "BANDHAN Banking & PSU Debt Fund - Direct Monthly IDCW",
+      "asset_value": "10439.80",
+      "nav": "10.4398",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "121938",
+      "scheme_name": "BANDHAN Banking & PSU Debt Fund - Direct Quarterly IDCW",
+      "asset_value": "11171.00",
+      "nav": "11.1710",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "121933",
+      "scheme_name": "BANDHAN Banking & PSU Debt Fund - Regular Annual IDCW",
+      "asset_value": "11364.00",
+      "nav": "11.3640",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "127470",
+      "scheme_name": "BANDHAN Banking & PSU Debt Fund - Regular Daily IDCW",
+      "asset_value": "10862.40",
+      "nav": "10.8624",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "121931",
+      "scheme_name": "BANDHAN Banking & PSU Debt Fund - Regular Fortnightly IDCW",
+      "asset_value": "10617.70",
+      "nav": "10.6177",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "121280",
+      "scheme_name": "BANDHAN Banking & PSU Debt Fund - Regular Growth",
+      "asset_value": "24669.90",
+      "nav": "24.6699",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "121282",
+      "scheme_name": "BANDHAN Banking & PSU Debt Fund - Regular IDCW",
+      "asset_value": "13321.60",
+      "nav": "13.3216",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "121932",
+      "scheme_name": "BANDHAN Banking & PSU Debt Fund - Regular Monthly IDCW",
+      "asset_value": "10682.50",
+      "nav": "10.6825",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "121937",
+      "scheme_name": "BANDHAN Banking & PSU Debt Fund - Regular Quarterly IDCW",
+      "asset_value": "11064.50",
+      "nav": "11.0645",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "148629",
+      "scheme_name": "Baroda BNP Paribas Banking and PSU Bond Fund -Direct Plan-Monthly IDCW Option",
+      "asset_value": "10557.00",
+      "nav": "10.5570",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "148628",
+      "scheme_name": "Baroda BNP Paribas Banking and PSU Bond Fund- Direct Plan -Growth Option",
+      "asset_value": "12979.20",
+      "nav": "12.9792",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "148630",
+      "scheme_name": "Baroda BNP Paribas Banking and PSU Bond Fund-Direct plan-Quarterly IDCW Option",
+      "asset_value": "10722.40",
+      "nav": "10.7224",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "148625",
+      "scheme_name": "Baroda BNP Paribas Banking and PSU Bond Fund-Regular Plan -Growth Option",
+      "asset_value": "12699.00",
+      "nav": "12.6990",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "148626",
+      "scheme_name": "Baroda BNP Paribas Banking and PSU Bond Fund-Regular Plan -Monthly IDCW Option",
+      "asset_value": "10392.80",
+      "nav": "10.3928",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "148627",
+      "scheme_name": "Baroda BNP Paribas Banking and PSU Bond Fund-Regular Plan-Quarterly IDCW Option",
+      "asset_value": "10500.60",
+      "nav": "10.5006",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "150505",
+      "scheme_name": "Canara Robeco Banking and PSU Debt Fund- Direct Plan- Growth Option",
+      "asset_value": "12181.70",
+      "nav": "12.1817",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "150507",
+      "scheme_name": "Canara Robeco Banking and PSU Debt Fund- Direct Plan- IDCW Payout",
+      "asset_value": "11012.20",
+      "nav": "11.0122",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "150503",
+      "scheme_name": "Canara Robeco Banking and PSU Debt Fund- Regular Plan- Growth Option",
+      "asset_value": "12079.70",
+      "nav": "12.0797",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "150504",
+      "scheme_name": "Canara Robeco Banking and PSU Debt Fund- Regular Plan- IDCW (Payout/ Reinvestment)",
+      "asset_value": "10926.40",
+      "nav": "10.9264",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "124175",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Direct Plan - Growth",
+      "asset_value": "24993.50",
+      "nav": "24.9935",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "124178",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Direct Plan - IDCW",
+      "asset_value": "10540.20",
+      "nav": "10.5402",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "124182",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Direct Plan - IDCW - Daily Reinvest",
+      "asset_value": "10142.90",
+      "nav": "10.1429",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "124176",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Direct Plan - IDCW - Monthly",
+      "asset_value": "10343.40",
+      "nav": "10.3434",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "124177",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Direct Plan - IDCW - Quarterly",
+      "asset_value": "10546.40",
+      "nav": "10.5464",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "124183",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Direct Plan - IDCW - Weekly",
+      "asset_value": "10144.20",
+      "nav": "10.1442",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "124172",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Regular Plan - Growth",
+      "asset_value": "24139.20",
+      "nav": "24.1392",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "124174",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Regular Plan - IDCW",
+      "asset_value": "10531.80",
+      "nav": "10.5318",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "124173",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Regular Plan - IDCW - Daily Reinvest",
+      "asset_value": "10142.00",
+      "nav": "10.142",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "124180",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Regular Plan - IDCW - Monthly",
+      "asset_value": "10331.40",
+      "nav": "10.3314",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "124181",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Regular Plan - IDCW - Quarterly",
+      "asset_value": "10535.50",
+      "nav": "10.5355",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "124179",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Regular Plan - IDCW - Weekly",
+      "asset_value": "10143.30",
+      "nav": "10.1433",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "140286",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Direct Plan - Growth Option",
+      "asset_value": "25654.10",
+      "nav": "25.6541",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "140288",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Direct Plan - IDCW Option",
+      "asset_value": "18946.70",
+      "nav": "18.9467",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "140291",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Direct Plan Fortnightly - IDCW Option",
+      "asset_value": "14530.50",
+      "nav": "14.5305",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "140293",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Direct Plan Monthly - IDCW Option",
+      "asset_value": "10908.30",
+      "nav": "10.9083",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "140290",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Direct Plan weekly - IDCW Option",
+      "asset_value": "10542.30",
+      "nav": "10.5423",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "140283",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Regular Plan - Growth Option",
+      "asset_value": "24760.50",
+      "nav": "24.7605",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "140284",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Regular Plan - IDCW Option",
+      "asset_value": "18105.40",
+      "nav": "18.1054",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "140294",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Regular Plan Fortnightly - IDCW Option",
+      "asset_value": "14064.20",
+      "nav": "14.0642",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "140292",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Regular Plan Monthly - IDCW Option",
+      "asset_value": "11150.80",
+      "nav": "11.1508",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "140289",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Regular Plan Weekly - IDCW Option",
+      "asset_value": "10136.10",
+      "nav": "10.1361",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "129008",
+      "scheme_name": "Franklin India Banking & PSU Debt Fund - Direct - Growth",
+      "asset_value": "23471.20",
+      "nav": "23.4712",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "129006",
+      "scheme_name": "Franklin India Banking & PSU Debt Fund - Growth",
+      "asset_value": "22470.00",
+      "nav": "22.4700",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "129009",
+      "scheme_name": "Franklin India Banking and PSU Debt Fund - Direct - IDCW",
+      "asset_value": "11614.00",
+      "nav": "11.6140",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "129007",
+      "scheme_name": "Franklin India Banking and PSU Debt Fund - IDCW",
+      "asset_value": "10984.20",
+      "nav": "10.9842",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "128628",
+      "scheme_name": "HDFC Banking and PSU Debt Fund - Growth Option",
+      "asset_value": "23082.70",
+      "nav": "23.0827",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "128629",
+      "scheme_name": "HDFC Banking and PSU Debt Fund - Growth Option - Direct Plan",
+      "asset_value": "24030.70",
+      "nav": "24.0307",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "128627",
+      "scheme_name": "HDFC Banking and PSU Debt Fund - IDCW Option",
+      "asset_value": "10254.60",
+      "nav": "10.2546",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "128626",
+      "scheme_name": "HDFC Banking and PSU Debt Fund - IDCW Option - Direct Plan",
+      "asset_value": "9999.50",
+      "nav": "9.9995",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "151108",
+      "scheme_name": "HSBC Banking and PSU Debt Fund - Direct Daily IDCW",
+      "asset_value": "11151.20",
+      "nav": "11.1512",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "151107",
+      "scheme_name": "HSBC Banking and PSU Debt Fund - Direct Growth",
+      "asset_value": "25619.70",
+      "nav": "25.6197",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "151106",
+      "scheme_name": "HSBC Banking and PSU Debt Fund - Direct Monthly IDCW",
+      "asset_value": "11419.70",
+      "nav": "11.4197",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "151109",
+      "scheme_name": "HSBC Banking and PSU Debt Fund - Direct Weekly IDCW",
+      "asset_value": "10338.90",
+      "nav": "10.3389",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "151102",
+      "scheme_name": "HSBC Banking and PSU Debt Fund - Regular Daily IDCW",
+      "asset_value": "11075.50",
+      "nav": "11.0755",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "151104",
+      "scheme_name": "HSBC Banking and PSU Debt Fund - Regular Growth",
+      "asset_value": "24325.80",
+      "nav": "24.3258",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "151105",
+      "scheme_name": "HSBC Banking and PSU Debt Fund - Regular Monthly IDCW",
+      "asset_value": "10692.50",
+      "nav": "10.6925",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "151103",
+      "scheme_name": "HSBC Banking and PSU Debt Fund - Regular Weekly IDCW",
+      "asset_value": "10311.20",
+      "nav": "10.3112",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "112343",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund -  Daily IDCW",
+      "asset_value": "10054.90",
+      "nav": "10.0549",
+      "date": "16-Sep-2022"
+    },
+    {
+      "scheme_code": "112344",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund -  Weekly IDCW",
+      "asset_value": "10242.70",
+      "nav": "10.2427",
+      "date": "16-Sep-2022"
+    },
+    {
+      "scheme_code": "130897",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Bonus",
+      "asset_value": "15888.90",
+      "nav": "15.8889",
+      "date": "24-Apr-2020"
+    },
+    {
+      "scheme_code": "120257",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Direct Plan -  Daily IDCW",
+      "asset_value": "10253.80",
+      "nav": "10.2538",
+      "date": "16-Sep-2022"
+    },
+    {
+      "scheme_code": "120256",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Direct Plan -  Growth",
+      "asset_value": "34175.10",
+      "nav": "34.1751",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "120258",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Direct Plan -  Quarterly IDCW",
+      "asset_value": "13095.90",
+      "nav": "13.0959",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "120255",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Direct Plan -  Weekly IDCW",
+      "asset_value": "10370.80",
+      "nav": "10.3708",
+      "date": "16-Sep-2022"
+    },
+    {
+      "scheme_code": "130950",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Direct Plan Bonus",
+      "asset_value": "13866.50",
+      "nav": "13.8665",
+      "date": "10-Apr-2018"
+    },
+    {
+      "scheme_code": "131148",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Direct Plan Half Yearly IDCW Option",
+      "asset_value": "13109.80",
+      "nav": "13.1098",
+      "date": "16-Sep-2022"
+    },
+    {
+      "scheme_code": "112342",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Growth",
+      "asset_value": "32789.50",
+      "nav": "32.7895",
+      "date": "17-Jun-2025"
+    },
+    {
+      "scheme_code": "116174",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Quarterly IDCW",
+      "asset_value": "11090.00",
+      "nav": "11.0900",
+      "date": "17-Jun-2025"
+    }
